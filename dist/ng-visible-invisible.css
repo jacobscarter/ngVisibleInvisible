@@ -1,0 +1,3 @@
+.ng-invisible:not(.ng-invisible-animate) {
+  visibility: hidden !important;
+}
