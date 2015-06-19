@@ -1,5 +1,5 @@
 {
-  "name": "ng-visible-invisible",
+  "name": "ngVisibleInvisible",
   "description": "Directive for adding and removing DOM node visiblity",
   "version": "0.1.1",
   "filename": "ng-visible-invisible.min.js",
