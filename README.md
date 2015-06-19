@@ -9,7 +9,11 @@ The `ngInvisible` directive shows or hides the given HTML element based on the e
 ## Installation
 
 ```
-bower install ngVisibleInvisible
+bower install ng-visible-invisible
+```
+or
+```
+npm install ng-visible-invisible
 ```
 
 Include in your main app file
